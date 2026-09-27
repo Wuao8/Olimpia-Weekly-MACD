@@ -88,6 +88,10 @@ if __name__ == "__main__":
     print("\n=== WEEKLY MACD ZERO CROSS ===\n")
 
     for coin in crosses:
-        print(f"{coin['symbol']}  MACD: {coin['macd']}")
+        print(
+            f"{coin['symbol']}  "
+            f"MACD: {coin['macd']}  "
+            f"PRICE: {coin['price']}"
+        )
 
     print(f"\nTotale segnali: {len(crosses)}")
