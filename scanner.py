@@ -49,3 +49,42 @@ def calculate_macd(klines):
     signal = macd.ewm(span=9, adjust=False).mean()
 
     return macd, signal
+
+
+def find_crosses():
+    symbols = get_symbols()
+    results = []
+
+    for symbol in symbols:
+        try:
+            klines = get_klines(symbol)
+
+            if not klines or len(klines) < 35:
+                continue
+
+            macd, signal = calculate_macd(klines)
+
+            previous = macd.iloc[-2]
+            current = macd.iloc[-1]
+
+            if previous <= 0 and current > 0:
+                results.append({
+                    "symbol": symbol,
+                    "macd": round(current, 8)
+                })
+
+        except Exception:
+            continue
+
+    return results
+
+
+if __name__ == "__main__":
+    crosses = find_crosses()
+
+    print("\n=== WEEKLY MACD ZERO CROSS ===\n")
+
+    for coin in crosses:
+        print(f"{coin['symbol']}  MACD: {coin['macd']}")
+
+    print(f"\nTotale segnali: {len(crosses)}")
