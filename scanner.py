@@ -82,8 +82,13 @@ def find_crosses():
     return results
 
 
+import json
+
 if __name__ == "__main__":
     crosses = find_crosses()
+
+    with open("signals.json", "w") as f:
+        json.dump(crosses, f, indent=2)
 
     print("\n=== WEEKLY MACD ZERO CROSS ===\n")
 
