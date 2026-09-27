@@ -68,9 +68,12 @@ def find_crosses():
             current = macd.iloc[-1]
 
             if previous <= 0 and current > 0:
+                price = float(klines[-1][4])
+
                 results.append({
                     "symbol": symbol,
-                    "macd": round(current, 8)
+                    "macd": round(current, 8),
+                    "price": price
                 })
 
         except Exception:
