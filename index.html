@@ -13,5 +13,36 @@
 
     <p>Scanner MACD settimanale • MEXC Spot USDT</p>
 
+    <div id="signals">
+        Caricamento segnali...
+    </div>
+
+    <script>
+        fetch("signals.json")
+            .then(response => response.json())
+            .then(data => {
+
+                const container = document.getElementById("signals");
+
+                if (data.length === 0) {
+                    container.innerHTML = "Nessun segnale.";
+                    return;
+                }
+
+                container.innerHTML = data.map(coin => `
+                    <p>
+                        <strong>${coin.symbol}</strong>
+                        | MACD: ${coin.macd}
+                        | PRICE: ${coin.price}
+                    </p>
+                `).join("");
+
+            })
+            .catch(error => {
+                document.getElementById("signals").innerHTML =
+                    "Errore nel caricamento dei segnali.";
+            });
+    </script>
+
 </body>
 </html>
