@@ -23,3 +23,11 @@ jobs:
 
       - name: Run scanner
         run: python scanner.py
+
+      - name: Save results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add signals.json
+          git commit -m "Update MACD signals" || exit 0
+          git push
