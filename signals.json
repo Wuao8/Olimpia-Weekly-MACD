@@ -1,157 +1,147 @@
 [
   {
     "symbol": "AOUSDT",
-    "macd": 0.1091264,
-    "price": 4.565
+    "macd": 0.11183865,
+    "price": 4.599
   },
   {
     "symbol": "TATSUUSDT",
-    "macd": 0.08899197,
-    "price": 2.153
+    "macd": 0.08157317,
+    "price": 2.06
   },
   {
     "symbol": "XTMUSDT",
-    "macd": 3.986e-05,
-    "price": 0.0015623
+    "macd": 2.968e-05,
+    "price": 0.0014347
   },
   {
     "symbol": "DOGSUSDT",
-    "macd": 5e-08,
-    "price": 4.941e-05
+    "macd": 1e-08,
+    "price": 4.889e-05
   },
   {
     "symbol": "POLUSDT",
-    "macd": 0.00146674,
-    "price": 0.12416
+    "macd": 0.00070252,
+    "price": 0.11458
   },
   {
     "symbol": "PAYAIUSDT",
-    "macd": 5.012e-05,
-    "price": 0.010956
+    "macd": 1.638e-05,
+    "price": 0.010533
   },
   {
     "symbol": "VPEPEUSDT",
-    "macd": 7.299e-05,
-    "price": 0.02323
+    "macd": 6.182e-05,
+    "price": 0.02309
   },
   {
     "symbol": "ICPUSDT",
-    "macd": 0.05944786,
-    "price": 3.446
+    "macd": 0.05689515,
+    "price": 3.414
   },
   {
     "symbol": "ABEYUSDT",
-    "macd": 0.00027076,
-    "price": 0.02938
+    "macd": 0.00031064,
+    "price": 0.02988
   },
   {
     "symbol": "SOONUSDT",
-    "macd": 0.00724073,
-    "price": 0.3468
+    "macd": 0.0185923,
+    "price": 0.4891
   },
   {
     "symbol": "ARRRUSDT",
-    "macd": 0.00226733,
-    "price": 0.2822
+    "macd": 0.00347986,
+    "price": 0.2974
   },
   {
     "symbol": "XVSUSDT",
-    "macd": 0.00246109,
-    "price": 3.3863
+    "macd": 0.0239118,
+    "price": 3.6552
   },
   {
     "symbol": "TWTUSDT",
-    "macd": 0.00488563,
-    "price": 0.5975
+    "macd": 0.00429532,
+    "price": 0.5901
   },
   {
     "symbol": "RNBWUSDT",
-    "macd": 0.00013155,
-    "price": 0.02252
+    "macd": 0.00018022,
+    "price": 0.02313
   },
   {
     "symbol": "GHXUSDT",
-    "macd": 0.00018592,
-    "price": 0.012018
-  },
-  {
-    "symbol": "VIRTUALUSDT",
-    "macd": 0.00088309,
-    "price": 0.8153
+    "macd": 0.00015409,
+    "price": 0.011619
   },
   {
     "symbol": "WLDUSDT",
-    "macd": 0.00325701,
-    "price": 0.5072
+    "macd": 0.0058177,
+    "price": 0.5393
   },
   {
     "symbol": "XLMUSDT",
-    "macd": 0.00206236,
-    "price": 0.2309
+    "macd": 0.00129655,
+    "price": 0.2213
   },
   {
     "symbol": "TRACUSDT",
-    "macd": 0.00072268,
-    "price": 0.3844
+    "macd": 0.00173578,
+    "price": 0.3971
   },
   {
     "symbol": "KASUSDT",
-    "macd": 0.00063906,
-    "price": 0.045478
+    "macd": 0.00042359,
+    "price": 0.042777
   },
   {
     "symbol": "ARKUSDT",
-    "macd": 0.0003581,
-    "price": 0.24852
+    "macd": 0.00763331,
+    "price": 0.33972
   },
   {
     "symbol": "FITUSDT",
-    "macd": 2.4e-07,
-    "price": 5.11e-05
+    "macd": 3.1e-07,
+    "price": 5.2e-05
   },
   {
     "symbol": "COMPUSDT",
-    "macd": 0.12098331,
-    "price": 25.16
+    "macd": 0.10183801,
+    "price": 24.92
   },
   {
     "symbol": "GAGUSDT",
-    "macd": 5.899e-05,
-    "price": 0.005064
+    "macd": 6.146e-05,
+    "price": 0.005095
   },
   {
     "symbol": "ACEUSDT",
-    "macd": 0.00095625,
-    "price": 0.18187
+    "macd": 0.00075761,
+    "price": 0.17938
   },
   {
     "symbol": "LDOUSDT",
-    "macd": 0.00303201,
-    "price": 0.4728
+    "macd": 0.00228215,
+    "price": 0.4634
   },
   {
     "symbol": "NAKAUSDT",
-    "macd": 0.0018029,
-    "price": 0.12577
+    "macd": 0.00191698,
+    "price": 0.1272
   },
   {
     "symbol": "LTCUSDT",
-    "macd": 0.77682555,
-    "price": 68.57
-  },
-  {
-    "symbol": "ENSOUSDT",
-    "macd": 0.00094645,
-    "price": 0.9973
+    "macd": 0.62605632,
+    "price": 66.68
   },
   {
     "symbol": "CNGUSDT",
-    "macd": 0.0003053,
-    "price": 0.008973
+    "macd": 0.00030043,
+    "price": 0.008912
   },
   {
     "symbol": "AURORAUSDT",
-    "macd": 0.00233125,
-    "price": 0.06761
+    "macd": 0.00217091,
+    "price": 0.0656
   }
 ]
