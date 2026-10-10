@@ -1,147 +1,152 @@
 [
   {
     "symbol": "GRIFFAINUSDT",
-    "macd": 0.00027882,
-    "price": 0.017785
+    "macd": 0.0002584,
+    "price": 0.017529
   },
   {
     "symbol": "RLCUSDT",
-    "macd": 0.01827195,
-    "price": 1.0601
+    "macd": 0.01011925,
+    "price": 0.9579
   },
   {
     "symbol": "AVAXUSDT",
-    "macd": 0.00066142,
-    "price": 10.207
+    "macd": 0.02132239,
+    "price": 10.466
   },
   {
     "symbol": "SENTUSDT",
-    "macd": 0.00036807,
-    "price": 0.02168
-  },
-  {
-    "symbol": "USD1USDT",
-    "macd": 3.54e-06,
-    "price": 1.00018
+    "macd": 0.00020613,
+    "price": 0.01965
   },
   {
     "symbol": "ALGOUSDT",
-    "macd": 0.00068611,
-    "price": 0.1163
+    "macd": 0.00062469,
+    "price": 0.11553
   },
   {
     "symbol": "TRADEUSDT",
-    "macd": 0.0001438,
-    "price": 0.05335
+    "macd": 0.00041024,
+    "price": 0.05669
   },
   {
     "symbol": "PAYAIUSDT",
-    "macd": 9.482e-05,
-    "price": 0.00845
+    "macd": 0.00014268,
+    "price": 0.00905
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "macd": 2.217e-05,
+    "price": 0.012227
   },
   {
     "symbol": "ACNONUSDT",
-    "macd": 1.42777039,
-    "price": 213.06
+    "macd": 1.75324048,
+    "price": 217.14
   },
   {
     "symbol": "HNSUSDT",
-    "macd": 0.00038102,
-    "price": 0.009853
+    "macd": 0.00032318,
+    "price": 0.009128
+  },
+  {
+    "symbol": "BELUSDT",
+    "macd": 5.891e-05,
+    "price": 0.12572
   },
   {
     "symbol": "ZRXUSDT",
-    "macd": 0.00063046,
-    "price": 0.11656
-  },
-  {
-    "symbol": "RADUSDT",
-    "macd": 0.00093655,
-    "price": 0.3575
+    "macd": 0.00153987,
+    "price": 0.12796
   },
   {
     "symbol": "BENQIUSDT",
-    "macd": 3.686e-05,
-    "price": 0.002779
+    "macd": 3.646e-05,
+    "price": 0.002774
   },
   {
     "symbol": "CUSDT",
-    "macd": 0.000603,
-    "price": 0.10049
+    "macd": 0.00054636,
+    "price": 0.09978
+  },
+  {
+    "symbol": "PMGUSDT",
+    "macd": 3.32e-06,
+    "price": 0.0012296
   },
   {
     "symbol": "NILUSDT",
-    "macd": 0.0013901,
-    "price": 0.08652
+    "macd": 0.00150258,
+    "price": 0.08793
   },
   {
     "symbol": "ARKUSDT",
-    "macd": 0.00342762,
-    "price": 0.21626
+    "macd": 0.0036438,
+    "price": 0.21897
   },
   {
     "symbol": "GMEONUSDT",
-    "macd": 0.21352825,
-    "price": 26.5
+    "macd": 0.26378466,
+    "price": 27.13
   },
   {
     "symbol": "STEEMUSDT",
-    "macd": 0.00013806,
-    "price": 0.06011
-  },
-  {
-    "symbol": "USDCUSDT",
-    "macd": 4.8e-07,
-    "price": 1.0008
+    "macd": 0.00020906,
+    "price": 0.061
   },
   {
     "symbol": "SPOTONUSDT",
-    "macd": 0.6669236,
-    "price": 527.25
+    "macd": 0.82247916,
+    "price": 529.2
   },
   {
     "symbol": "GTCUSDT",
-    "macd": 0.00694609,
-    "price": 0.18767
+    "macd": 0.00762814,
+    "price": 0.19622
   },
   {
     "symbol": "NATIXUSDT",
-    "macd": 8.92e-06,
-    "price": 0.0002767
+    "macd": 7.21e-06,
+    "price": 0.0002553
   },
   {
     "symbol": "NSTUSDT",
-    "macd": 0.02306107,
-    "price": 1.774
+    "macd": 0.01636022,
+    "price": 1.69
+  },
+  {
+    "symbol": "SFPUSDT",
+    "macd": 3.158e-05,
+    "price": 0.2843
   },
   {
     "symbol": "OTKUSDT",
-    "macd": 1.049e-05,
-    "price": 0.0018504
+    "macd": 5.17e-05,
+    "price": 0.002367
   },
   {
     "symbol": "VTHOUSDT",
-    "macd": 2.87e-06,
-    "price": 0.0006615
+    "macd": 6.86e-06,
+    "price": 0.0007114
   },
   {
     "symbol": "MSTRONUSDT",
-    "macd": 0.33404511,
-    "price": 156.55
+    "macd": 0.24230722,
+    "price": 155.4
   },
   {
     "symbol": "MXUSDT",
-    "macd": 0.00039571,
-    "price": 1.8805
+    "macd": 0.00199913,
+    "price": 1.9006
   },
   {
     "symbol": "BTTUSDT",
     "macd": 0.0,
-    "price": 3.657e-07
+    "price": 3.678e-07
   },
   {
     "symbol": "SUPERFORMUSDT",
-    "macd": 0.00036693,
-    "price": 0.06866
+    "macd": 0.00070118,
+    "price": 0.07285
   }
 ]
