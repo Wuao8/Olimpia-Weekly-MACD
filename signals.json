@@ -1,97 +1,87 @@
 [
   {
     "symbol": "HANDYUSDT",
-    "macd": 4.12e-06,
-    "price": 0.0028637
+    "macd": 5.61e-06,
+    "price": 0.0028824
   },
   {
     "symbol": "TLOSUSDT",
-    "macd": 0.00014607,
-    "price": 0.019505
+    "macd": 0.00013793,
+    "price": 0.019403
   },
   {
     "symbol": "FLUXUSDT",
-    "macd": 0.00027242,
-    "price": 0.08132
+    "macd": 0.00023094,
+    "price": 0.0808
   },
   {
     "symbol": "CELRUSDT",
-    "macd": 8.89e-06,
-    "price": 0.003042
+    "macd": 1.07e-06,
+    "price": 0.002944
   },
   {
     "symbol": "USD1USDT",
-    "macd": 1.897e-05,
-    "price": 1.0003
+    "macd": 1.498e-05,
+    "price": 1.00025
   },
   {
     "symbol": "DRGUSDT",
-    "macd": 0.00015885,
-    "price": 0.01815
+    "macd": 0.0001421,
+    "price": 0.01794
   },
   {
     "symbol": "BEAMXUSDT",
-    "macd": 2.847e-05,
-    "price": 0.002762
-  },
-  {
-    "symbol": "RADUSDT",
-    "macd": 0.00026988,
-    "price": 0.2924
+    "macd": 2.743e-05,
+    "price": 0.002749
   },
   {
     "symbol": "BATUSDT",
-    "macd": 0.00551851,
-    "price": 0.18174
+    "macd": 0.00519543,
+    "price": 0.17769
   },
   {
     "symbol": "XPXUSDT",
-    "macd": 1.394e-05,
-    "price": 0.0004208
+    "macd": 1.659e-05,
+    "price": 0.00045398
   },
   {
     "symbol": "SOILUSDT",
-    "macd": 0.0007846,
-    "price": 0.10995
+    "macd": 0.00074391,
+    "price": 0.10944
   },
   {
     "symbol": "VERTUSDT",
-    "macd": 1.085e-05,
-    "price": 0.0010683
+    "macd": 1.114e-05,
+    "price": 0.001072
   },
   {
     "symbol": "SHXUSDT",
-    "macd": 2.448e-05,
-    "price": 0.006421
+    "macd": 1.124e-05,
+    "price": 0.006255
   },
   {
     "symbol": "RENDERUSDT",
-    "macd": 0.02093439,
-    "price": 2.007
+    "macd": 0.01391444,
+    "price": 1.919
   },
   {
     "symbol": "INITUSDT",
-    "macd": 0.00145007,
-    "price": 0.1205
-  },
-  {
-    "symbol": "ANDYETHUSDT",
-    "macd": 0.0,
-    "price": 1.1871e-05
+    "macd": 0.00155138,
+    "price": 0.12177
   },
   {
     "symbol": "FILUSDT",
-    "macd": 0.01381111,
-    "price": 1.1388
+    "macd": 0.01089145,
+    "price": 1.1022
   },
   {
     "symbol": "OGNUSDT",
-    "macd": 0.00082148,
-    "price": 0.03565
+    "macd": 0.00046171,
+    "price": 0.03114
   },
   {
     "symbol": "TIAUSDT",
-    "macd": 0.00551948,
-    "price": 0.5817
+    "macd": 0.00212916,
+    "price": 0.5392
   }
 ]
