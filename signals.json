@@ -1,72 +1,72 @@
 [
   {
+    "symbol": "HANDYUSDT",
+    "macd": 6.3e-06,
+    "price": 0.002891
+  },
+  {
     "symbol": "USD1USDT",
-    "macd": 9.4e-06,
-    "price": 1.00018
+    "macd": 1.339e-05,
+    "price": 1.00023
   },
   {
     "symbol": "DRGUSDT",
-    "macd": 0.00013731,
-    "price": 0.01788
+    "macd": 0.00012056,
+    "price": 0.01767
   },
   {
     "symbol": "BEAMXUSDT",
-    "macd": 4.355e-05,
-    "price": 0.002951
+    "macd": 3.924e-05,
+    "price": 0.002897
   },
   {
     "symbol": "AVAUSDT",
-    "macd": 0.00429213,
-    "price": 0.3163
-  },
-  {
-    "symbol": "RADUSDT",
-    "macd": 4.652e-05,
-    "price": 0.2896
+    "macd": 0.01033087,
+    "price": 0.392
   },
   {
     "symbol": "BATUSDT",
-    "macd": 0.0063944,
-    "price": 0.19272
+    "macd": 0.00519383,
+    "price": 0.17767
   },
   {
     "symbol": "XPXUSDT",
-    "macd": 1.386e-05,
-    "price": 0.0004197
+    "macd": 1.292e-05,
+    "price": 0.00040794
   },
   {
     "symbol": "SOILUSDT",
-    "macd": 0.00101753,
-    "price": 0.11287
+    "macd": 0.0011683,
+    "price": 0.11476
   },
   {
     "symbol": "VERTUSDT",
-    "macd": 1.017e-05,
-    "price": 0.0010598
+    "macd": 1.021e-05,
+    "price": 0.0010603
   },
   {
     "symbol": "RENDERUSDT",
-    "macd": 0.012319,
-    "price": 1.899
+    "macd": 0.00641587,
+    "price": 1.825
   },
   {
     "symbol": "INITUSDT",
-    "macd": 0.00181782,
-    "price": 0.12511
+    "macd": 0.00169098,
+    "price": 0.12352
   },
   {
     "symbol": "FILUSDT",
-    "macd": 0.01303732,
-    "price": 1.1291
+    "macd": 0.00762877,
+    "price": 1.0613
   },
   {
     "symbol": "OGNUSDT",
-    "macd": 0.00034843,
-    "price": 0.02972
+    "macd": 0.00051675,
+    "price": 0.03183
   },
   {
     "symbol": "TIAUSDT",
-    "macd": 0.01226022,
-    "price": 0.6662
+    "macd": 0.01070466,
+    "price": 0.6467
   }
 ]
