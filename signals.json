@@ -1,47 +1,37 @@
 [
   {
-    "symbol": "BTRUSDT",
-    "macd": 0.00037122,
-    "price": 0.05343
+    "symbol": "COSTONUSDT",
+    "macd": 4.01963111,
+    "price": 1015.18
   },
   {
-    "symbol": "HANDYUSDT",
-    "macd": 2.84e-06,
-    "price": 0.0021993
+    "symbol": "ISRGONUSDT",
+    "macd": 0.10752033,
+    "price": 456.55
   },
   {
-    "symbol": "FORTUSDT",
-    "macd": 0.00072912,
-    "price": 0.02925
+    "symbol": "FRCUSDT",
+    "macd": 1.5e-07,
+    "price": 0.0002386
   },
   {
-    "symbol": "DODOUSDT",
-    "macd": 0.00011321,
-    "price": 0.02272
+    "symbol": "JCTUSDT",
+    "macd": 0.00016904,
+    "price": 0.006459
   },
   {
-    "symbol": "RADUSDT",
-    "macd": 0.00089418,
-    "price": 0.2705
+    "symbol": "DJI6930USDT",
+    "macd": 8.887e-05,
+    "price": 0.005764
   },
   {
-    "symbol": "BMTUSDT",
-    "macd": 0.00039477,
-    "price": 0.02899
+    "symbol": "NLSUSDT",
+    "macd": 1.037e-05,
+    "price": 0.003541
   },
   {
-    "symbol": "USDPUSDT",
-    "macd": 7.328e-05,
-    "price": 1.0027
-  },
-  {
-    "symbol": "DUSKUSDT",
-    "macd": 0.00096551,
-    "price": 0.1091
-  },
-  {
-    "symbol": "FLUIDUSDT",
-    "macd": 0.02471373,
-    "price": 2.1671
+    "symbol": "ANDYETHUSDT",
+    "macd": 1e-08,
+    "price": 1.0762e-05
   }
 ]
