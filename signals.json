@@ -1,42 +1,27 @@
 [
   {
-    "symbol": "COSTONUSDT",
-    "macd": 4.86601287,
-    "price": 1025.79
+    "symbol": "TSLAXUSDT",
+    "macd": 0.0828655,
+    "price": 408.32
   },
   {
-    "symbol": "NIGHTUSDT",
-    "macd": 5.888e-05,
-    "price": 0.04174
+    "symbol": "PROSPERUSDT",
+    "macd": 6.098e-05,
+    "price": 0.03002
   },
   {
-    "symbol": "AINUSDT",
-    "macd": 0.009504,
-    "price": 0.27403
+    "symbol": "ISRGONUSDT",
+    "macd": 1.08351856,
+    "price": 445.47
   },
   {
-    "symbol": "USATUSDT",
-    "macd": 1.86e-05,
-    "price": 1.0001
+    "symbol": "EVAAUSDT",
+    "macd": 0.01366798,
+    "price": 1.3639
   },
   {
-    "symbol": "ONUSDT",
-    "macd": 0.00158049,
-    "price": 0.18083
-  },
-  {
-    "symbol": "JCTUSDT",
-    "macd": 4.507e-05,
-    "price": 0.004905
-  },
-  {
-    "symbol": "DJI6930USDT",
-    "macd": 0.00011679,
-    "price": 0.006114
-  },
-  {
-    "symbol": "ANDYETHUSDT",
-    "macd": 6e-08,
-    "price": 1.1456e-05
+    "symbol": "WMTONUSDT",
+    "macd": 0.77983687,
+    "price": 127.52
   }
 ]
