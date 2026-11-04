@@ -1,32 +1,37 @@
 [
   {
-    "symbol": "PROSPERUSDT",
-    "macd": 5.779e-05,
-    "price": 0.02998
-  },
-  {
     "symbol": "ISRGONUSDT",
-    "macd": 0.71896015,
-    "price": 440.9
+    "macd": 3.99599719,
+    "price": 481.98
   },
   {
-    "symbol": "HOTUSDT",
-    "macd": 1.86e-06,
-    "price": 0.0005383
+    "symbol": "ELSAUSDT",
+    "macd": 0.0003745,
+    "price": 0.07753
+  },
+  {
+    "symbol": "OLASUSDT",
+    "macd": 0.00032166,
+    "price": 0.06423
+  },
+  {
+    "symbol": "MCNUSDT",
+    "macd": 0.00091135,
+    "price": 0.1412
   },
   {
     "symbol": "EVAAUSDT",
-    "macd": 0.02596883,
-    "price": 1.5181
+    "macd": 0.03554148,
+    "price": 1.6381
   },
   {
     "symbol": "SPACEMVCUSDT",
-    "macd": 0.0005975,
-    "price": 0.06097
+    "macd": 0.00152613,
+    "price": 0.072611
   },
   {
     "symbol": "WMTONUSDT",
-    "macd": 0.68411037,
-    "price": 126.32
+    "macd": 1.04069157,
+    "price": 130.79
   }
 ]
