@@ -1,47 +1,17 @@
 [
   {
-    "symbol": "ARIAUSDT",
-    "macd": 0.00068547,
-    "price": 0.15662
+    "symbol": "IDOLUSDT",
+    "macd": 0.00013556,
+    "price": 0.032465
   },
   {
-    "symbol": "ISRGONUSDT",
-    "macd": 1.79987184,
-    "price": 454.45
-  },
-  {
-    "symbol": "ELSAUSDT",
-    "macd": 0.0003394,
-    "price": 0.07709
-  },
-  {
-    "symbol": "MCNUSDT",
-    "macd": 0.00688628,
-    "price": 0.2161
+    "symbol": "AIOTUSDT",
+    "macd": 0.00573224,
+    "price": 0.172511
   },
   {
     "symbol": "EVAAUSDT",
-    "macd": 0.00040188,
-    "price": 1.1976
-  },
-  {
-    "symbol": "TAUSDT",
-    "macd": 0.00316308,
-    "price": 0.11095
-  },
-  {
-    "symbol": "SPACEMVCUSDT",
-    "macd": 0.00161148,
-    "price": 0.073681
-  },
-  {
-    "symbol": "REDUSDT",
-    "macd": 0.00045414,
-    "price": 0.15428
-  },
-  {
-    "symbol": "WMTONUSDT",
-    "macd": 0.64103345,
-    "price": 125.78
+    "macd": 0.02167395,
+    "price": 1.1282
   }
 ]
