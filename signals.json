@@ -1,17 +1,12 @@
 [
   {
-    "symbol": "FOLKSUSDT",
-    "macd": 0.0002719,
-    "price": 2.504
-  },
-  {
     "symbol": "AIOTUSDT",
-    "macd": 0.00547354,
-    "price": 0.169268
+    "macd": 0.00505745,
+    "price": 0.164052
   },
   {
     "symbol": "EVAAUSDT",
-    "macd": 0.01637709,
-    "price": 1.0618
+    "macd": 0.01842723,
+    "price": 1.0875
   }
 ]
