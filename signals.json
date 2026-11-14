@@ -1,12 +1,17 @@
 [
   {
     "symbol": "AIOTUSDT",
-    "macd": 0.00437651,
-    "price": 0.155516
+    "macd": 0.00473421,
+    "price": 0.16
   },
   {
     "symbol": "EVAAUSDT",
-    "macd": 0.01798848,
-    "price": 1.082
+    "macd": 0.06205458,
+    "price": 1.6344
+  },
+  {
+    "symbol": "FUSDUSDT",
+    "macd": 4.65e-06,
+    "price": 1.0001
   }
 ]
