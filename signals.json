@@ -1,10 +1,5 @@
 [
   {
-    "symbol": "BLESSUSDT",
-    "macd": 0.00031458,
-    "price": 0.017904
-  },
-  {
     "symbol": "FUSDUSDT",
     "macd": 2.37e-06,
     "price": 1.0001
