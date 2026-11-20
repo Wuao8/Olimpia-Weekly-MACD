@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "symbol": "TOPUSDT",
+    "macd": 1e-07,
+    "price": 9.29e-05
+  },
+  {
+    "symbol": "ELSAUSDT",
+    "macd": 0.00023423,
+    "price": 0.06594
+  }
+]
