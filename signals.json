@@ -1,18 +1,18 @@
 [
   {
-    "symbol": "TOPUSDT",
-    "macd": 1.2e-07,
-    "price": 9.32e-05
+    "symbol": "BLESSUSDT",
+    "macd": 0.0002427,
+    "price": 0.017003
   },
   {
-    "symbol": "IDOLUSDT",
-    "macd": 0.00012281,
-    "price": 0.028897
+    "symbol": "TOPUSDT",
+    "macd": 5e-08,
+    "price": 9.23e-05
   },
   {
     "symbol": "ELSAUSDT",
-    "macd": 0.0002813,
-    "price": 0.06653
+    "macd": 0.00156164,
+    "price": 0.08258
   },
   {
     "symbol": "EFCUSDT",
@@ -21,12 +21,7 @@
   },
   {
     "symbol": "USADUSDT",
-    "macd": 5.888e-05,
-    "price": 1.0409
-  },
-  {
-    "symbol": "FUSDUSDT",
-    "macd": 2.37e-06,
-    "price": 1.0001
+    "macd": 0.00014663,
+    "price": 1.042
   }
 ]
