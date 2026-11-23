@@ -1,27 +1,12 @@
 [
   {
-    "symbol": "BLESSUSDT",
-    "macd": 0.0002427,
-    "price": 0.017003
+    "symbol": "USD1USDT",
+    "macd": 2.554e-05,
+    "price": 1.00067
   },
   {
-    "symbol": "TOPUSDT",
-    "macd": 5e-08,
-    "price": 9.23e-05
-  },
-  {
-    "symbol": "ELSAUSDT",
-    "macd": 0.00156164,
-    "price": 0.08258
-  },
-  {
-    "symbol": "EFCUSDT",
-    "macd": 0.00191261,
-    "price": 0.16936
-  },
-  {
-    "symbol": "USADUSDT",
-    "macd": 0.00014663,
-    "price": 1.042
+    "symbol": "FOLKSUSDT",
+    "macd": 0.01974689,
+    "price": 2.4832
   }
 ]
