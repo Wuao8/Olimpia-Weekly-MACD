@@ -1,12 +1,17 @@
 [
   {
     "symbol": "USD1USDT",
-    "macd": 2.554e-05,
-    "price": 1.00067
+    "macd": 6.144e-05,
+    "price": 1.00112
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "macd": 0.00028348,
+    "price": 0.11686
   },
   {
     "symbol": "FOLKSUSDT",
-    "macd": 0.01974689,
-    "price": 2.4832
+    "macd": 0.0150882,
+    "price": 2.4248
   }
 ]
