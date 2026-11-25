@@ -1,17 +1,27 @@
 [
   {
     "symbol": "USD1USDT",
-    "macd": 6.144e-05,
-    "price": 1.00112
+    "macd": 5.905e-05,
+    "price": 1.00109
+  },
+  {
+    "symbol": "CMGONUSDT",
+    "macd": 0.01462837,
+    "price": 37.62
   },
   {
     "symbol": "LISTAUSDT",
-    "macd": 0.00028348,
-    "price": 0.11686
+    "macd": 0.00056029,
+    "price": 0.12033
   },
   {
     "symbol": "FOLKSUSDT",
-    "macd": 0.0150882,
-    "price": 2.4248
+    "macd": 0.01051726,
+    "price": 2.3675
+  },
+  {
+    "symbol": "MMTUSDT",
+    "macd": 0.00342578,
+    "price": 0.2953
   }
 ]
