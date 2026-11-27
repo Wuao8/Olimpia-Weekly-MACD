@@ -5,8 +5,13 @@
     "price": 1.00068
   },
   {
+    "symbol": "PORTALUSDT",
+    "macd": 0.00106442,
+    "price": 0.038606
+  },
+  {
     "symbol": "FOLKSUSDT",
-    "macd": 0.01129903,
-    "price": 2.3773
+    "macd": 0.0134449,
+    "price": 2.4042
   }
 ]
